@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+    <Environment>
+        <AppUrl>https://webuinqa.sprinklr.com</AppUrl>
+        <ApiBaseUrl>/ui/rest</ApiBaseUrl>
+        <LoginBaseUrl>https://nqa-login.sprinklr.com/login</LoginBaseUrl>
+        <Partners>
+            <Partner1>
+                <Name>Automation QA</Name>
+            </Partner1>
+        </Partners>
+    </Environment>
+</Config>

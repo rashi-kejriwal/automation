@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Login Tests" parallel="tests">
+    <test name="Validate user and pwd">
+        <classes>
+            <class name="login.LoginTests"/>
+        </classes>
+    </test>
+</suite>
